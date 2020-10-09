@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>client-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Personal-1-mixed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.300000012">
+        <g transform="translate(-420.000000, -4934.000000)" fill-rule="nonzero" id="clients">
+            <g transform="translate(350.000000, 4446.000000)">
+                <g id="Group-5" transform="translate(59.000000, 487.000000)">
+                    <g id="client-1" transform="translate(11.000000, 1.000000)">
+                        <path d="M45.6000835,0 L2.39981217,0 C1.07134845,0 0,1.07144814 0,2.40001043 L0,45.5999896 C0,46.9285519 1.07134845,48 2.39981217,48 L45.6000835,48 C46.9286516,48 48,46.9285519 48,45.5999896 L48,2.40001043 C48,1.07144814 46.9286516,0 45.6000835,0" id="Path" fill="#282642"></path>
+                        <rect id="Rectangle" fill="#FFFFFF" x="14" y="14" width="5" height="21.2"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="22" y="30" width="13" height="5"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="22" y="22" width="13" height="5"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="22" y="14" width="13" height="5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
